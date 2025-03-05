@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 AI-Powered Health Insurance Claim Approval System
 
 ## 📌 Project Overview
