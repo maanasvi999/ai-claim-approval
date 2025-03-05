@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏥 AI-Powered Health Insurance Claim Approval System
 
 ## 📌 Project Overview
@@ -21,12 +20,13 @@ This project leverages **GPT-4, FAISS, and FastAPI** to **automate health insura
 | **LLM Processing** | OpenAI GPT-4 (or Mistral-7B) |
 | **Vector Embeddings** | Sentence Transformers (`all-MiniLM-L6-v2`) |
 | **Frontend UI** | Streamlit |
-| **Database** | CSV File (`health_claims.csv`) |
+| **Database** | CSV File (`Kaggle dataset health_claims.csv`) |
 | **Deployment** | Local (Can be deployed on Hugging Face / Cloud) |
 
 ---
 
 ## 📂 Folder Structure
+```
 ai-claim-approval/ 
 │── app/ # Backend API logic 
 │ ├── init.py # Makes app a package 
@@ -45,7 +45,7 @@ ai-claim-approval/
 │── frontend.py # Streamlit frontend 
 │── README.md # Project documentation 
 │── .gitignore # Ignore unnecessary files
-
+```
 ---
 
 ## 🏗️ How It Works
